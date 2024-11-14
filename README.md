@@ -1,2 +1,4 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/lobedima/fullstack-javascript-project-4/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/lobedima/fullstack-javascript-project-4/actions)
+<a href="https://codeclimate.com/github/lobedima/fullstack-javascript-project-4/maintainability"><img src="https://api.codeclimate.com/v1/badges/7b6d45eb03c0c6a5f715/maintainability" /></a>
+<a href="https://codeclimate.com/github/lobedima/fullstack-javascript-project-4/test_coverage"><img src="https://api.codeclimate.com/v1/badges/7b6d45eb03c0c6a5f715/test_coverage" /></a>
